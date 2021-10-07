@@ -1,6 +1,6 @@
 # Gecko Crypto
 
-## view live project in [https://promodo.vercel.app](https://promodo.vercel.app/)
+## view live project in [https://gecko-crypto.vercel.app/](https://gecko-crypto.vercel.app/)
 
 ### A realtime crypto price tracker with details
 
